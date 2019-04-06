@@ -1,0 +1,16 @@
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\obj\x86\Debug\CalculatorApplication.MainForm.resources
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\obj\x86\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\obj\x86\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\obj\x86\Debug\CalculatorApplication.exe
+C:\Users\311\AppData\Local\Temporary Projects\CalculatorApplication\obj\x86\Debug\CalculatorApplication.pdb
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.MainForm.resources
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.exe
+C:\Users\yueqingping\Desktop\cs\CalculatorApplication\CalculatorApplication\obj\x86\Debug\CalculatorApplication.pdb
